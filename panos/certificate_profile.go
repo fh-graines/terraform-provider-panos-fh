@@ -4,8 +4,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/PaloAltoNetworks/pango"
 	cert "github.com/PaloAltoNetworks/pango/dev/profile/certificate"
+	"github.com/graines-fh/pango-fh"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 )
